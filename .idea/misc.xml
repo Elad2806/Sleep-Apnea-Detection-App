@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/activity_load_csv.xml" value="0.33" />
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/activity_main.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/device_list_header.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/device_list_item.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/fragment_terminal.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/fragment_welcome.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/list_item_apnea_event.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/MOGOB/S7/PROJECT_IOT/IOT_Project/IOT_Project/app/src/main/res/layout/row_apnea_event.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/MOGOB/S7/Tutorial6/app/src/main/res/layout/activity_load_csv.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/MOGOB/S7/Tutorial6/app/src/main/res/layout/activity_main.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/MOGOB/S7/Tutorial6/app/src/main/res/layout/fragment_terminal.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/MOGOB/S7/lab7/lab7/app/src/main/res/layout/activity_load_csv.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/MOGOB/S7/lab7/lab7/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/MOGOB/S7/lab7/lab7/app/src/main/res/layout/fragment_terminal.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

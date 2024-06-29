@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IoT Project - Appnea</string>
+    <string name="devices">Bluetooth Devices</string>
+</resources>
