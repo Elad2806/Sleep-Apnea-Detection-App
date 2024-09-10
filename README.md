@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Watch the demo video](https://drive.google.com/file/d/1kk584zM3JfrLd97sR-CtKHF59ajFwHDq/preview)
+[Watch the demo video](https://drive.google.com/file/d/1kYIoBU1R02ZFQGtESXcdetI-4GKglyVK/view)
 
 
 ## Overview
