@@ -2,7 +2,8 @@
 
 ## Demo Video
 
-<iframe src="https://drive.google.com/file/d/1kk584zM3JfrLd97sR-CtKHF59ajFwHDq/preview" width="640" height="480" allow="autoplay"></iframe>
+[Watch the demo video](https://drive.google.com/file/d/1kk584zM3JfrLd97sR-CtKHF59ajFwHDq/preview)
+
 
 ## Overview
 Appnea is a smart monitoring system designed to detect sleep apnea and hypopnea from the comfort of home.
